@@ -1,0 +1,57 @@
+.div1{
+    background-color: rgb(0, 255, 128);
+    text-align: center;
+}
+
+.header1{
+    background-color: rgb(4, 171, 232);
+    text-align: center;
+}
+
+.section1{
+    background-color: burlywood;
+    text-align: center;
+}
+
+.article1{
+    background-color: red;
+    text-align: center;
+}
+
+.footer1{
+    background-color: blue;
+    text-align: center;
+}
+
+.nav1{
+    background-color: yellow;
+    text-align: center;
+}
+
+h1,h2,body{
+    margin: 0px;
+}
+
+button{
+    padding: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img{
+    max-width: 100%;
+}
+
+.textSize{
+    font-size: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+}
+
+a:hover{
+    color:rgb(60, 0, 255)
+}
