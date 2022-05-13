@@ -14,7 +14,7 @@
 }
 
 .article1{
-    background-color: red;
+    /* background-color: red; */
     text-align: center;
 }
 
@@ -28,7 +28,7 @@
     text-align: center;
 }
 
-h1,h2,body{
+h1,h2,body,ul{
     margin: 0px;
 }
 
@@ -55,3 +55,8 @@ a{
 a:hover{
     color:rgb(60, 0, 255)
 }
+
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
